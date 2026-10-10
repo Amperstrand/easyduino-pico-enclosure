@@ -1,0 +1,795 @@
+{
+ "U2": {
+  "footprint": "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm",
+  "u": [
+   6.715,
+   14.465
+  ],
+  "v": [
+   25.825,
+   33.575
+  ],
+  "height": 0.9,
+  "height_provenance": "conservative_assumption"
+ },
+ "D4": {
+  "footprint": "LED_SMD:LED_0402_1005Metric",
+  "u": [
+   15.655,
+   17.215
+  ],
+  "v": [
+   18.13,
+   18.77
+  ],
+  "height": 0.8,
+  "height_provenance": "conservative_assumption"
+ },
+ "C10": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   6.165,
+   6.785
+  ],
+  "v": [
+   23.815,
+   25.335
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP4": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   9.45,
+   9.95
+  ],
+  "v": [
+   36.55,
+   37.05
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "J1": {
+  "footprint": "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV",
+  "u": [
+   5.86,
+   15.5
+  ],
+  "v": [
+   1.4,
+   7.72
+  ],
+  "height": 3.3,
+  "height_provenance": "conservative_assumption"
+ },
+ "R6": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   14.82,
+   15.46
+  ],
+  "v": [
+   20.55,
+   22.11
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP11": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   8.98,
+   9.48
+  ],
+  "v": [
+   21.34,
+   21.84
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "C15": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   7.69,
+   8.31
+  ],
+  "v": [
+   17.54,
+   19.06
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R14": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   13.705,
+   15.265
+  ],
+  "v": [
+   18.13,
+   18.77
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C11": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   9.14,
+   9.76
+  ],
+  "v": [
+   22.94,
+   24.46
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP13": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   9.2,
+   9.7
+  ],
+  "v": [
+   15.61,
+   16.11
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "C3": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   12.84,
+   13.46
+  ],
+  "v": [
+   23.14,
+   24.66
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "Y1": {
+  "footprint": "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm",
+  "u": [
+   8.2,
+   11.8
+  ],
+  "v": [
+   38.6,
+   41.5
+  ],
+  "height": 0.9,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP9": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   9.87,
+   10.37
+  ],
+  "v": [
+   15.63,
+   16.13
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP8": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   7.25,
+   7.75
+  ],
+  "v": [
+   20.15,
+   20.65
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP12": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   9.75,
+   10.25
+  ],
+  "v": [
+   21.35,
+   21.85
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "R13": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   13.705,
+   15.265
+  ],
+  "v": [
+   17.13,
+   17.77
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP1": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   17.25,
+   17.75
+  ],
+  "v": [
+   11.15,
+   11.65
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "C6": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   14.99,
+   15.61
+  ],
+  "v": [
+   25.61,
+   27.13
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "J6": {
+  "footprint": "Connector_JST:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical",
+  "u": [
+   7.6,
+   13.4
+  ],
+  "v": [
+   42.6,
+   46.8
+  ],
+  "height": 7.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "R5": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   11.98,
+   12.62
+  ],
+  "v": [
+   20.92,
+   22.48
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "U3": {
+  "footprint": "RP2040:W25Q16JVUXIQ",
+  "u": [
+   9.0,
+   10.8
+  ],
+  "v": [
+   16.875,
+   20.275
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "C16": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   7.04,
+   7.66
+  ],
+  "v": [
+   39.54,
+   41.06
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP14": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   7.75,
+   8.25
+  ],
+  "v": [
+   16.55,
+   17.05
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "R3": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   15.82,
+   16.46
+  ],
+  "v": [
+   20.56,
+   22.12
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "D1": {
+  "footprint": "Diode_SMD:D_SOD-123",
+  "u": [
+   13.1,
+   17.3
+  ],
+  "v": [
+   9.0,
+   10.2
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "J5": {
+  "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",
+  "u": [
+   1.99,
+   8.77
+  ],
+  "v": [
+   48.729,
+   50.429
+  ],
+  "height": 8.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "SW1": {
+  "footprint": "RP2040:ALPSALPINE_SKRPACE010",
+  "u": [
+   3.905,
+   6.695
+  ],
+  "v": [
+   15.455,
+   20.545
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "C1": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   11.74,
+   12.36
+  ],
+  "v": [
+   34.64,
+   36.16
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C9": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   3.715,
+   5.235
+  ],
+  "v": [
+   30.59,
+   31.21
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C8": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   10.74,
+   11.36
+  ],
+  "v": [
+   34.64,
+   36.16
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP10": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   10.53,
+   11.03
+  ],
+  "v": [
+   15.63,
+   16.13
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP3": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   7.1,
+   7.6
+  ],
+  "v": [
+   41.35,
+   41.85
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "SW2": {
+  "footprint": "RP2040:ALPSALPINE_SKRPACE010",
+  "u": [
+   3.905,
+   6.695
+  ],
+  "v": [
+   9.755,
+   14.845
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "R8": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   7.52,
+   9.08
+  ],
+  "v": [
+   37.48,
+   38.12
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "D2": {
+  "footprint": "LED_SMD:LED_0402_1005Metric",
+  "u": [
+   15.655,
+   17.215
+  ],
+  "v": [
+   16.13,
+   16.77
+  ],
+  "height": 0.8,
+  "height_provenance": "conservative_assumption"
+ },
+ "R11": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   5.42,
+   6.98
+  ],
+  "v": [
+   8.68,
+   9.32
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R15": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   5.92,
+   7.48
+  ],
+  "v": [
+   21.18,
+   21.82
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C7": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   15.19,
+   16.71
+  ],
+  "v": [
+   30.39,
+   31.01
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C2": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   8.14,
+   8.76
+  ],
+  "v": [
+   22.94,
+   24.46
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R12": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   13.705,
+   15.265
+  ],
+  "v": [
+   16.13,
+   16.77
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C17": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   12.34,
+   12.96
+  ],
+  "v": [
+   39.29,
+   40.81
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R9": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   8.48,
+   9.12
+  ],
+  "v": [
+   35.52,
+   37.08
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "D3": {
+  "footprint": "LED_SMD:LED_0402_1005Metric",
+  "u": [
+   15.655,
+   17.215
+  ],
+  "v": [
+   17.13,
+   17.77
+  ],
+  "height": 0.8,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP2": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   13.1,
+   13.6
+  ],
+  "v": [
+   14.15,
+   14.65
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "R1": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   11.83,
+   12.47
+  ],
+  "v": [
+   8.62,
+   10.18
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C12": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   10.14,
+   10.76
+  ],
+  "v": [
+   22.94,
+   24.46
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C4": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   13.84,
+   14.46
+  ],
+  "v": [
+   23.14,
+   24.66
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R4": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   10.98,
+   11.62
+  ],
+  "v": [
+   20.92,
+   22.48
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C14": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   11.99,
+   12.61
+  ],
+  "v": [
+   12.29,
+   13.81
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "U1": {
+  "footprint": "Package_TO_SOT_SMD:SOT-23-3",
+  "u": [
+   13.1,
+   16.7
+  ],
+  "v": [
+   11.3,
+   13.8
+  ],
+  "height": 1.4,
+  "height_provenance": "conservative_assumption"
+ },
+ "R2": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   8.63,
+   9.27
+  ],
+  "v": [
+   8.62,
+   10.18
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R10": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   5.92,
+   7.48
+  ],
+  "v": [
+   22.18,
+   22.82
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C5": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   14.84,
+   15.46
+  ],
+  "v": [
+   23.14,
+   24.66
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "C13": {
+  "footprint": "Capacitor_SMD:C_0402_1005Metric",
+  "u": [
+   17.19,
+   17.81
+  ],
+  "v": [
+   12.29,
+   13.81
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "R7": {
+  "footprint": "Resistor_SMD:R_0402_1005Metric",
+  "u": [
+   13.82,
+   14.46
+  ],
+  "v": [
+   20.55,
+   22.11
+  ],
+  "height": 0.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP6": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   12.2,
+   12.7
+  ],
+  "v": [
+   33.55,
+   34.05
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "J4": {
+  "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical",
+  "u": [
+   18.591,
+   20.291
+  ],
+  "v": [
+   0.469,
+   50.429
+  ],
+  "height": 8.5,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP5": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   10.85,
+   11.35
+  ],
+  "v": [
+   33.55,
+   34.05
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "TP7": {
+  "footprint": "rp2040_lib:TestPoint_pad",
+  "u": [
+   13.0,
+   13.5
+  ],
+  "v": [
+   33.55,
+   34.05
+  ],
+  "height": 1.0,
+  "height_provenance": "conservative_assumption"
+ },
+ "J3": {
+  "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical",
+  "u": [
+   0.684,
+   2.384
+  ],
+  "v": [
+   0.469,
+   50.429
+  ],
+  "height": 8.5,
+  "height_provenance": "conservative_assumption"
+ }
+}

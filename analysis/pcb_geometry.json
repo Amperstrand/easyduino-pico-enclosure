@@ -1,0 +1,48 @@
+{
+ "source": "Easyduino_RP2040.kicad_pcb",
+ "outline": {
+  "w": 21.0,
+  "h": 51.0,
+  "origin_kicad": [
+   134.0,
+   73.5
+  ]
+ },
+ "thickness": 1.6,
+ "thickness_provenance": "extracted_kicad (may be bare laminate - verify with calipers/coupon stair)",
+ "mounting_holes": [
+  {
+   "ref": "H3",
+   "center": [
+    3.99,
+    48.7
+   ],
+   "drill": 2.2
+  },
+  {
+   "ref": "H1",
+   "center": [
+    3.99,
+    2.3
+   ],
+   "drill": 2.2
+  },
+  {
+   "ref": "H2",
+   "center": [
+    17.39,
+    2.3
+   ],
+   "drill": 2.2
+  },
+  {
+   "ref": "H4",
+   "center": [
+    16.59,
+    48.7
+   ],
+   "drill": 2.2
+  }
+ ],
+ "coordinate_note": "board-local (u,v) = KiCad (X-x0, Y-y0); KiCad Y grows toward v-max"
+}
