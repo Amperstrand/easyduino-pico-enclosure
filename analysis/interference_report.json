@@ -59,7 +59,7 @@
   "pass": true,
   "value": {
    "bottom": 6273.2,
-   "lid": 2723.8
+   "lid": 2694.3
   },
   "expect": "",
   "note": "watertight B-reps, positive volume"
@@ -69,7 +69,7 @@
   "pass": true,
   "value": {
    "bottom": "aa5f327f4f7fed19",
-   "lid": "04726ed91cf88555"
+   "lid": "f4ea04713ca72050"
   },
   "expect": "",
   "note": "two consecutive builds produce hash-identical STLs"
